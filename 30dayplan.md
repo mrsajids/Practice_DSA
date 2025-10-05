@@ -1,4 +1,5 @@
 # Beginner-Friendly DSA Roadmap for Frontend Developers
+https://github.com/mrsajids/Practice_DSA/blob/main/30dayplan.md
 
 ## 🎯 **Reality Check: You Don't Need All of This!**
 
